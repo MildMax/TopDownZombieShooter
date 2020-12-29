@@ -1,5 +1,5 @@
 This is a top-down arcade style zombie shooter. It's round based, and there isn't an end until you've run out of health.
-To play the game, go to the 'build' folder and run the '3DTopDownZombieShooter.exe' executable file. Use the Unity
+To play the game, unzip and go to the 'build' folder and run the '3DTopDownZombieShooter.exe' executable file. Use the Unity
 interface to start the game. Once the game begins, the game will immediately start.
 
 Controls:
